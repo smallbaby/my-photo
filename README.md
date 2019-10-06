@@ -1,0 +1,2 @@
+# my-photo
+private photo
